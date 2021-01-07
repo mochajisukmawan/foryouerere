@@ -1,0 +1,205 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-13 06:26:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:05:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:08:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:10:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:10:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:13:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:14:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:14:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:15:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:15:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:15:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:16:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:17:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:18:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:19:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:19:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:20:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:20:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:22:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:22:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:22:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:23:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:23:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:23:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:23:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:23:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:24:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:25:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:25:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:25:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:26:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:26:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:26:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:28:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:29:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:29:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:29:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:29:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:29:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:29:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:30:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:32:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:32:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:32:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:33:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:33:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:34:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:35:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:36:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:36:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:37:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:37:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:38:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:38:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:39:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:40:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:41:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:41:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:44:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:44:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:47:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:47:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:48:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:48:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:48:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:49:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:51:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:53:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:57:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 07:58:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:03:35 --> 404 Page Not Found: Assets/file
+ERROR - 2020-06-13 08:04:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:05:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:05:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:05:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:05:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:09:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:09:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:10:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:10:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:12:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:17:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:19:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:20:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:21:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:27:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:32:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:36:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:51:54 --> 404 Page Not Found: Assets/file
+ERROR - 2020-06-13 08:56:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 08:56:37 --> Severity: Notice --> Undefined index: unit_kerja_id /var/www/magang.bankjateng.co.id/application/controllers/Main.php 86
+ERROR - 2020-06-13 09:01:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 09:14:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 09:14:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 09:29:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 09:53:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:01:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:06:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:15:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:28:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:29:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:29:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:29:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 10:56:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:07:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:09:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:09:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:11:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:13:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:20:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:21:17 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/magang.bankjateng.co.id/application/controllers/Pembimbing.php 830
+ERROR - 2020-06-13 11:22:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:25:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:27:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:42:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:44:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:46:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:47:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:47:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:48:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:50:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:50:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:52:26 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/magang.bankjateng.co.id/application/controllers/Pembimbing.php 830
+ERROR - 2020-06-13 11:52:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:52:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:53:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:53:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:53:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:54:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:54:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:54:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:54:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:55:23 --> 404 Page Not Found: Assets/file
+ERROR - 2020-06-13 11:55:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:56:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:56:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:56:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 11:56:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:02:54 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/magang.bankjateng.co.id/application/controllers/Pembimbing.php 830
+ERROR - 2020-06-13 12:03:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:05:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:05:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:05:31 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/magang.bankjateng.co.id/application/controllers/Pembimbing.php 830
+ERROR - 2020-06-13 12:06:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:09:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:17:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:24:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:29:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `tanggal_mulai` <= '2020-06-13' AND `tanggal_selesai` >= '2020-06-13'' at line 5 - Invalid query: SELECT *
+FROM `pembimbing_magang_peserta`
+JOIN `pembimbing_magang` ON `pembimbing_magang`.`id_pembimbing_magang` = `pembimbing_magang_peserta`.`id_pembimbing_magang`
+JOIN `unit_kerja` ON `pembimbing_magang`.`unit_kerja_id` = `unit_kerja`.`kode_unit`
+WHERE `nomor_register` = AND `tanggal_mulai` <= '2020-06-13' AND `tanggal_selesai` >= '2020-06-13'
+ERROR - 2020-06-13 12:29:54 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/magang.bankjateng.co.id/application/models/Global_model.php 385
+ERROR - 2020-06-13 12:29:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:32:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:32:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:32:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:41:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:42:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:45:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:45:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:46:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:47:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:51:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:51:35 --> 404 Page Not Found: Assets/file
+ERROR - 2020-06-13 12:54:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:55:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:58:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 12:59:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:01:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:03:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:05:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:14:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:14:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:16:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:16:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `tanggal_mulai` <= '2020-06-13' AND `tanggal_selesai` >= '2020-06-13'' at line 5 - Invalid query: SELECT *
+FROM `pembimbing_magang_peserta`
+JOIN `pembimbing_magang` ON `pembimbing_magang`.`id_pembimbing_magang` = `pembimbing_magang_peserta`.`id_pembimbing_magang`
+JOIN `unit_kerja` ON `pembimbing_magang`.`unit_kerja_id` = `unit_kerja`.`kode_unit`
+WHERE `nomor_register` = AND `tanggal_mulai` <= '2020-06-13' AND `tanggal_selesai` >= '2020-06-13'
+ERROR - 2020-06-13 13:16:22 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/magang.bankjateng.co.id/application/models/Global_model.php 385
+ERROR - 2020-06-13 13:17:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:17:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:36:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:36:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:37:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:37:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:38:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:45:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 13:45:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:02:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:10:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:11:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:11:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:16:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:23:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:24:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:27:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:28:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:34:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:48:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 14:49:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-13 15:14:11 --> 404 Page Not Found: Faviconico/index

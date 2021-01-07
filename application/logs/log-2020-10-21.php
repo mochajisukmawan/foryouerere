@@ -1,0 +1,9 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-21 08:30:22 --> Severity: Error --> Maximum execution time of 90 seconds exceeded D:\xampp\htdocs\magang.bankjateng.co.id\system\database\drivers\mysqli\mysqli_driver.php 305
+ERROR - 2020-10-21 08:33:06 --> Severity: error --> Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jenis' in 'where clause' D:\xampp\htdocs\magang.bankjateng.co.id\libraries\zendframework\zend-db\src\Adapter\Driver\Pdo\Connection.php 360
+ERROR - 2020-10-21 08:33:19 --> Severity: error --> Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jenis' in 'where clause' D:\xampp\htdocs\magang.bankjateng.co.id\libraries\zendframework\zend-db\src\Adapter\Driver\Pdo\Connection.php 360
+ERROR - 2020-10-21 08:36:47 --> Severity: error --> Exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nomor_register' in where clause is ambiguous D:\xampp\htdocs\magang.bankjateng.co.id\libraries\zendframework\zend-db\src\Adapter\Driver\Pdo\Connection.php 360
+ERROR - 2020-10-21 08:37:00 --> Severity: error --> Exception: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nomor_register' in where clause is ambiguous D:\xampp\htdocs\magang.bankjateng.co.id\libraries\zendframework\zend-db\src\Adapter\Driver\Pdo\Connection.php 360
+ERROR - 2020-10-21 08:38:14 --> Severity: error --> Exception: Statement could not be executed (42S02 - 1146 - Table 'sim_magang.peserta_rekomendasi_kontrak prk' doesn't exist) D:\xampp\htdocs\magang.bankjateng.co.id\libraries\zendframework\zend-db\src\Adapter\Driver\Pdo\Statement.php 244
+ERROR - 2020-10-21 14:13:19 --> Severity: error --> Exception: Statement could not be executed (42S02 - 1146 - Table 'sim_magang.zdwh_peserta' doesn't exist) D:\xampp\htdocs\magang.bankjateng.co.id\libraries\zendframework\zend-db\src\Adapter\Driver\Pdo\Statement.php 244
