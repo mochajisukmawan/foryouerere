@@ -43,9 +43,9 @@
   </nav>
 
   <!-- Header -->
-  <header class="masthead d-flex">
-    <div class="container text-center my-auto">
-      <h1 class="mb-5">Makan Apa Kali Ini?</h1>
+  <header style="height: 100%;" class="masthead d-flex">
+    <div class="container text-center">
+      <h1 style="margin-top:15%" class="mb-5">Makan Apa Kali Ini?</h1>
       <h2 class="mb-5" id="hasil-makanan">
         <a class="btn btn-success text-left cari-makanan" >Cari</a>
       </h2>
