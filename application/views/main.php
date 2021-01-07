@@ -11,7 +11,7 @@
   <title>Stylish Portfolio - Start Bootstrap Template</title>
 
   <!-- Bootstrap Core CSS -->
-  <link href="<?=base_url()?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://startbootstrap.github.io/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom Fonts -->
   <link href="<?=base_url()?>assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
