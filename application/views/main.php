@@ -50,7 +50,6 @@
       </h2>
       <a class="btn btn-success text-left btn-xl js-scroll-trigger cari-makanan" >Cari</a>
     </div>
-    <div class="overlay"></div>
   </header>
 
   <!-- About -->
