@@ -22,7 +22,6 @@
   <link href="<?=base_url()?>assets/css/stylish-portfolio.min.css" rel="stylesheet">
 
 </head>
-<?php print_r(base_url()); ?>
 <body id="page-top">
 
   <!-- Navigation -->
