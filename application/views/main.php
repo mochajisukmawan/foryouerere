@@ -46,8 +46,7 @@
   <header class="masthead d-flex">
     <div class="container text-center my-auto">
       <h1 class="mb-1">Makan Apa Kali Ini?</h1>
-      <h2 class="mb-5">
-            <em id="hasil-makanan"></em>
+      <h2 class="mb-5" id="hasil-makanan">
       </h2>
       <a class="btn btn-success text-left btn-xl js-scroll-trigger cari-makanan" >Cari</a>
     </div>
