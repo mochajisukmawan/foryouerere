@@ -45,10 +45,11 @@
   <!-- Header -->
   <header class="masthead d-flex">
     <div class="container text-center my-auto">
-      <h1 class="mb-1">Makan Apa Kali Ini?</h1>
+      <h1 class="mb-5">Makan Apa Kali Ini?</h1>
       <h2 class="mb-5" id="hasil-makanan">
+        <a class="btn btn-success text-left cari-makanan" >Cari</a>
       </h2>
-      <a class="btn btn-success text-left cari-makanan" >Cari</a>
+      
     </div>
   </header>
 
@@ -142,7 +143,6 @@
     $('.cari-makanan').click(function(){
             data = JSON.parse('<?=$data_json?>');
             console.log(data);
-            $('.cari-makanan').hide();
             var output, started, duration, desired;
             // Initial setup
             output = $('#hasil-makanan');
