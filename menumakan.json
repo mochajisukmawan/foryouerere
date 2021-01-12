@@ -1,22 +1,77 @@
 [
     {
-        "no": 1,
-        "nama": "sate ayam",
-        "alamat": "Kediri"
-    },
-    {
         "no": 2,
         "nama": "bakmi jowo",
         "alamat": "Kediri"
     },
     {
         "no": 3,
-        "nama": "pizza hut",
+        "nama": "mie gacoan",
         "alamat": "Kediri"
     },
     {
         "no": 4,
-        "nama": "pizza sfsdfsdfsdf sdfsdfsdfsdf sdfsdfsfs",
+        "nama": "burger king",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 5,
+        "nama": "sate ayam",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 6,
+        "nama": "MCD",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 7,
+        "nama": "KFC",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 8,
+        "nama": "recheese",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 9,
+        "nama": "ayam mak sri",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 10,
+        "nama": "ayam mak yeeek",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 11,
+        "nama": "kakap bu ndut",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 12,
+        "nama": "katsu j-pan udinus",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 13,
+        "nama": "idola",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 14,
+        "nama": "hokben",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 15,
+        "nama": "pak heksa",
+        "alamat": "Kediri"
+    },
+    {
+        "no": 16,
+        "nama": "ayam bakar semarang",
         "alamat": "Kediri"
     }
 ]
