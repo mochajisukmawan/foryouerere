@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $config['base_url'] = 'http://'.$_SERVER["SERVER_NAME"];
 // $config['base_url'] = 'https://foryouerere.herokuapp.com/';
-$root = "https://".$_SERVER['HTTP_HOST'];
+$root = "http://".$_SERVER['HTTP_HOST'];
 $root .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
 $config['base_url'] = $root;
 
